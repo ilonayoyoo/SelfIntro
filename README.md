@@ -3,10 +3,11 @@
 *   RPA & Machine Learning Developer
 * 🔍 I'm a passionate technologist with a rich background in Robotic Process Automation (RPA). During my tenure at EY, one of the leading global professional services firms, I honed my skills in RPA development, automating complex business processes to drive efficiency and innovation.
 * 💡 My journey in the world of tech took an exciting turn when I began exploring Machine Learning (ML). At EY, I had the unique opportunity to integrate ML algorithms into various projects. This experience not only enhanced my technical acumen but also allowed me to witness the transformative power of ML in real-world applications.
-* 🚀 I'm fascinated by the intersection of RPA and ML. The synergy between these technologies is immense, and I am continually exploring ways to leverage this to solve challenging problems. I enjoy experimenting with different ML models, and it's thrilling to see the results they yield in both professional and personal projects.*
-* 🌍  I'm based in New York*
-* ✉️  You can contact me at [yw4113@columbi.edu](mailto:yw4113@columbi.edu)*
-*  🧠  I'm learning Neural Network, Graph ML*
+* 🚀 I'm fascinated by the intersection of RPA and ML. The synergy between these technologies is immense, and I am continually exploring ways to leverage this to solve challenging problems. I enjoy experimenting with different ML models, and it's thrilling to see the results they yield in both professional and personal projects.
+
+* 🌍  I'm based in New York
+* ✉️  You can contact me at [yw4113@columbi.edu](mailto:yw4113@columbi.edu)
+*  🧠  I'm learning Neural Network, Graph ML
 *   🤝  I'm open to collaborating on RPA & AI LLM projects
 
 <a href="https://www.github.com/ilonayoyoo" target="_blank" rel="noreferrer"><img
