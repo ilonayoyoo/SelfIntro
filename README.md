@@ -5,8 +5,8 @@
 
 * 🌍  I'm based in New York
 * ✉️  You can contact me at [yw4113@columbi.edu](mailto:yw4113@columbi.edu)
-*🧠  I'm learning Neural Network, Graph ML
-*🤝  I'm open to collaborating on RPA & AI LLM projects
+* 🧠  I'm learning Neural Network, Graph ML
+* 🤝  I'm open to collaborating on RPA & AI LLM projects
 
 <a href="https://www.github.com/ilonayoyoo" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ilonayoyoo?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
